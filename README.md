@@ -14,10 +14,14 @@
 **Flask Productionization:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 ## Project Walkthough
-This is my second data science project following the same youtube walkthrough. Huge shout out to Ken Jee for simplifying the data science process as well as providing a vast amount of insight on the projects Data Scientists work on: https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
+This was my second data science project following the same youtube walkthrough. Huge shout out to Ken Jee for simplifying the data science process as well as providing a vast amount of insight on the projects Data Scientists work on: https://www.youtube.com/playlist?list=PL2zq7klxX5ASFejJj80ob9ZAnBHdz5O1t
 
 ## Cleaning the Data
 Dataset taken from Kaggle did not need much cleaing. Only removed trailing zeros from some columns to increase legibility.
+
+## Data Visualization with Tableau
+Using Tableau I take an in depth look at the housing data and showcase the feautres of houses sold in the King County area. This interactive tool can help provide futher context and give an overview of the housing information sold in each zipcode. 
+**Tableau link:*** https://public.tableau.com/views/KC_housing/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## EDA
 Examining distributions of the data, it was interesting to see the correlations between home attributes and price. Here are some hightlights.
