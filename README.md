@@ -26,9 +26,9 @@ Using Tableau I take an in depth look at the housing data and showcase the feaut
 ## EDA
 Examining distributions of the data, it was interesting to see the correlations between home attributes and price. Here are some hightlights.
 
-![](images/corr1.jpg) ![](EDA%20images/corr2.jpg)
-![](EDA%20images/yr_built.jpg) ![](EDA%20images/grade.jpg)
-![](EDA%20images/pivot1.jpg) ![](EDA%20images/pivot2.jpg)
+![](images/corr1.jpg) ![](images/corr2.jpg)
+![](images/yr_built.jpg) ![](images/grade.jpg)
+![](images/pivot1.jpg) ![](images/pivot2.jpg)
 
 ## Building the Models
 A train-test split of 80/20 was used for all the models in this project. (Train:80%, Test:20%)
